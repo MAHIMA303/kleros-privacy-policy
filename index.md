@@ -1,89 +1,99 @@
-
+# Privacy Policy
 
 **Last updated:** June 20, 2025  
 
-Kleros ("the App", "we", "us", or "our") is a student-focused academic application designed to help users of **Thiagarajar College of Engineering (TCE)** securely access and manage their academic scorecards and related information.
+**Kleros** ("the App", "we", "us", or "our") is a sports score sheet and match management application designed to help users record, view, and manage sports scores, match details, and related statistics.
 
 By using this application, you agree to the terms outlined in this Privacy Policy.
 
+---
 
+## 1. Information We Collect
 
-## 1. Information Collection and Use
+To provide basic app functionality, we collect only minimal user information.
 
-We respect your privacy and are committed to protecting user data.
+### Information We Collect
+- **Email address** (used for account identification and login)
+- **User-created password** (securely handled using authentication services)
+- **Sports-related data entered by the user**, such as:
+  - Match details
+  - Team and player names
+  - Scores and statistics
+- **Basic app usage data** to improve performance and stability
 
-### Information We Do Not Collect
-We do **not** collect or store:
+We collect **only what is necessary** to operate the application effectively.
+
+---
+
+## 2. Information We Do Not Collect
+
+We do **not** collect, store, or access:
 - Aadhaar number  
 - Bank or payment information  
-- Personal photos or media  
+- Government-issued identification  
+- Personal photos, videos, or media files  
 - Contacts, call logs, or SMS data  
 - Precise real-time location data  
+- Device microphone or camera data  
 
-### Information We May Use
-To provide essential functionality, the app may process:
-- Academic records such as register number, semester details, internal marks, GPA/CGPA  
-- Login credentials (securely handled through authentication services)  
-- Anonymous usage statistics for performance improvement  
+---
 
-All collected information is used **only for educational and application-related purposes**.
+## 3. Third-Party Services
 
-
-
-## 2. Firebase and Third-Party Services
-
-Kleros uses trusted third-party services to operate effectively:
-- **Firebase Authentication** – for secure login  
-- **Firebase Database** – for storing and retrieving academic data  
-- **Google Play Services** – for core app functionality  
+Kleros uses trusted third-party services to support app functionality:
+- **Firebase Authentication** – for secure email and password login
+- **Firebase Database / Firestore** – for storing sports-related data
+- **Google Play Services** – for essential app operations
 
 These services operate under their own privacy policies.  
-We do **not** sell, trade, or share user data with advertisers or unauthorized parties.
+We do **not** sell, rent, or share user data with advertisers or unauthorized third parties.
 
+---
 
+## 4. Data Security
 
-## 3. Data Security
+We apply reasonable security measures, including:
+- Secure authentication mechanisms
+- Restricted database access rules
+- Controlled data permissions
 
-We apply reasonable administrative and technical safeguards, including:
-- Secure authentication mechanisms  
-- Restricted database access rules  
-- Controlled data access permissions  
+While we take strong precautions, no digital platform can guarantee complete security.
 
-While we strive to protect user information, no digital platform can guarantee absolute security.
+---
 
+## 5. Sports Data Disclaimer
 
+Kleros is an informational tool.  
+All sports scores, statistics, and match data displayed in the app are **user-entered** and intended for reference purposes only.  
+They should not be considered official or authoritative records.
 
-## 4. Educational Disclaimer
+---
 
-Kleros is an **informational platform**.  
-The academic data displayed in the app is intended for reference purposes only and should not be considered an official replacement for college-issued mark sheets or certificates.
+## 6. Children’s Privacy
 
+This app is intended for general users.  
+We do not knowingly collect personal information from children under the age of 13.  
+If such data is identified, it will be removed promptly.
 
+---
 
-## 5. Children’s Privacy
+## 7. Changes to This Privacy Policy
 
-This app is intended for students and authorized academic users.  
-We do not knowingly collect personal data from children under the age of 13.  
-If such data is identified, it will be removed immediately.
+We may update this Privacy Policy from time to time.  
+Any changes will be posted on this page, and continued use of the app indicates acceptance of the updated policy.
 
+---
 
+## 8. Contact Us
 
-## 6. Changes to This Privacy Policy
+If you have any questions or concerns regarding this Privacy Policy, please contact us:
 
-We may update this Privacy Policy periodically.  
-Any changes will be reflected on this page, and continued use of the app indicates acceptance of the updated policy.
+**Email:** mahadev1303k@gmail.com  
 
+**Developers:**  
+- Mahalakshmi M  
+- Naka Vasanth S  
 
-
-## 7. Contact Us
-
-If you have questions or concerns about this Privacy Policy, please contact:
-
- **Email:** mahadev@gmail.com  
- **Developers:** 
-   -MAHALAKSHMI M
-   -NAKA VASANTH S
-
-
+---
 
 © 2025 **Kleros**. All rights reserved.
